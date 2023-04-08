@@ -5,7 +5,7 @@ Este exercicio altera o texto conforme o clique do botão utilizando manipulaç�
 Para testá-lo, basta fazer o clone e rodar os comandos:
 
 ```
-npm instal
+npm install
 ```
 Para baixar os módulos necessários para execução do js ESM
 ```
