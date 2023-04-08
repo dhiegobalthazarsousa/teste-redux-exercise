@@ -11,4 +11,6 @@ Para baixar os módulos necessários para execução do js ESM
 ```
 npm run dev
 ```
-Para rodar o vite, para rodar a aplicação no navegador
+Para executar o servidor vite.
+
+Agora é só abrir o navegador e collocar o endereço localhost:<porta que apareceu na hora de execução do vite>
