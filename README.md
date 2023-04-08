@@ -13,4 +13,4 @@ npm run dev
 ```
 Para executar o servidor vite.
 
-Agora é só abrir o navegador e collocar o endereço localhost:<porta que apareceu na hora de execução do vite>
+Agora é só abrir o navegador e collocar o endereço localhost:numero da porta
